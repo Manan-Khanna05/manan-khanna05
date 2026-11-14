@@ -62,11 +62,11 @@ I'm a **BE CSE (Full Stack Development), Semester 3** student at **Chandigarh Un
 <div align="center">
   <img src="assets/contributions.svg" alt="Activity & Contribution Flow — animated, from real GitHub data" width="100%" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=Manan-Khanna05&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="assets/stats.svg" alt="GitHub Stats — self-hosted, verified 14 Nov 2026" width="100%" />
   <br />
   <img src="https://streak-stats.demolab.com/?user=Manan-Khanna05&theme=dark&hide_border=false" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manan-Khanna05&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="assets/languages.svg" alt="Top Languages — self-hosted, primary language per repo" width="100%" />
 </div>
 
 ---
@@ -87,6 +87,10 @@ I'm a **BE CSE (Full Stack Development), Semester 3** student at **Chandigarh Un
 | [**StudySage AI**](https://github.com/Manan-Khanna05/studysage-ai) | Notes → summary, flashcards & quiz + Pomodoro. | React, TypeScript, Node, Express |
 | [**ResumeLens AI**](https://github.com/Manan-Khanna05/resumelens-ai) | Resume + job description → ATS score (sample 70/100). | React, TypeScript, Node, Express |
 | [**SpendWise AI**](https://github.com/Manan-Khanna05/spendwise-ai) | ₹ expense tracker with smart insights & month-end forecast. | React, TypeScript, Node, Express |
+
+### 🔜 Next Up
+
+**PaperTrail** — previous-year question-paper analyser: mines repeated questions & topics across years, predicts high-probability topics per subject. Due **24 Nov 2026** — a new researched AI project lands every 10 days.
 
 ### 🎮 The Human Side
 
