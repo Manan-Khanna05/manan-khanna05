@@ -77,14 +77,14 @@ I'm a **BE CSE (Full Stack Development), Semester 3** student at **Chandigarh Un
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| **AlertHub** | One feed for Gmail alerts, CUIMS marks, tasks & push notifications. PWA, live on Vercel. | React, TypeScript, Vite, Vercel KV, Web Push |
+| [**AlertHub**](https://github.com/Manan-Khanna05/alerthub) | One feed for Gmail alerts, CUIMS marks, tasks & push notifications. PWA, live on Vercel. | React, TypeScript, Vite, Vercel KV, Web Push |
 | **evidence-chain** | Court-facing evidence-integrity console for the RPF → GRP custody seam, with ESP32-S3 gateway. SIH 2026 Phase 1. | TypeScript, React, ESP32-S3 |
 | **Lyrics-Sync-Powered-by-AI** | Automatic lyrics synchronisation with ML, speech recognition & beat detection. Karaoke mode, LRC/SRT export. | JavaScript, React, ML |
 | **JARVIS-NOVA** | Voice-first AI copilot for hands-free system control. BYO STT / LLM / TTS. | Python |
 | **ai-image-generator** | Text-to-image generator — natural-language prompts to visuals. | JavaScript |
-| **StudySage AI** | Notes → summary, flashcards & quiz + Pomodoro. Built & verified locally; repo to be created. | React, TypeScript, Node, Express |
-| **ResumeLens AI** | Resume + job description → ATS score (sample 70/100). Built & verified locally; repo to be created. | React, TypeScript, Node, Express |
-| **SpendWise AI** | ₹ expense tracker with smart insights & month-end forecast. Built & verified locally; repo to be created. | React, TypeScript, Node, Express |
+| [**StudySage AI**](https://github.com/Manan-Khanna05/studysage-ai) | Notes → summary, flashcards & quiz + Pomodoro. | React, TypeScript, Node, Express |
+| [**ResumeLens AI**](https://github.com/Manan-Khanna05/resumelens-ai) | Resume + job description → ATS score (sample 70/100). | React, TypeScript, Node, Express |
+| [**SpendWise AI**](https://github.com/Manan-Khanna05/spendwise-ai) | ₹ expense tracker with smart insights & month-end forecast. | React, TypeScript, Node, Express |
 
 ### 🎮 The Human Side
 
