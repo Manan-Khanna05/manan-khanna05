@@ -60,6 +60,8 @@ I'm a **BE CSE (Full Stack Development), Semester 3** student at **Chandigarh Un
 ### 📈 Activity & Contribution Flow
 
 <div align="center">
+  <img src="assets/contributions.svg" alt="Activity & Contribution Flow — animated, from real GitHub data" width="100%" />
+  <br />
   <img src="https://github-readme-stats.vercel.app/api?username=Manan-Khanna05&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   <br />
   <img src="https://streak-stats.demolab.com/?user=Manan-Khanna05&theme=dark&hide_border=false" alt="GitHub Streak" />
